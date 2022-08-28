@@ -82,7 +82,7 @@ previewimage|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
 
 backgroundurl|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
 
-tiletyle|box-shadow: 0 0 60px 4px #e9c4c4, 0 0 30px 2px #cfbc77 !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 15px 0 -5px rgba(59, 28, 50, 0.7), 0 38px 0 -20px rgba(123, 20, 25, 0.5), 0 55px 0 -30px rgba(229, 124, 4, 0.5), 0 69px 0 -37px rgba(250, 163, 0, 0.3), 0 15px 0 -43px rgba(243, 183, 0, 0.2) !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -90,7 +90,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; border: 5px solid #fca558 !important; box-shadow: 0px 0px 24px #fca558 !important;
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(59, 28, 50, 0.7) !important; box-shadow: 0px 0px 24px #fca558 !important;
 
 additionalstyle|
 
