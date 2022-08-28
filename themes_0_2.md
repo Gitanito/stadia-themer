@@ -5,7 +5,7 @@ tiletyle|box-shadow: rgba(255, 255, 255, 1) 3px 3px 0px, rgba(10, 10, 10, 0.8) 1
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 gridstyle|padding-top: 2em !important;
 headerstyle|display: none !important;
-activetilestyle|transform: scale(1.5) !important;border: 10px solid red !important;
+activetilestyle|transform: scale(1.5) !important;border: 0.5rem solid white !important;
 additionalstyle|
 
 # Theme 2
