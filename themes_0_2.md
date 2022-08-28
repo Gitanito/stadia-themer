@@ -161,6 +161,26 @@ additionalstyle|
 
 
 
+# Light
+
+previewimage|![](images/masaaki-komori-_SbeCWYjwCQ-unsplash.jpg)
+
+backgroundurl|![](images/masaaki-komori-_SbeCWYjwCQ-unsplash.jpg)
+
+tiletyle|box-shadow: 0 7px 15px 1px rgba(255, 86, 86, 0.18) !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(255, 86, 86, 0.8) !important; box-shadow: 0px 0px 24px rgba(255, 86, 86, 0.8) !important;
+
+additionalstyle|
+
+
+
 
 
 
