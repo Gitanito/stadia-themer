@@ -22,7 +22,7 @@ previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
 backgroundurl|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
-tiletyle|box-shadow:  20px 20px 60px #bebebe, -20px -20px 60px #ffffff !important;
+tiletyle|box-shadow:  20px 20px 60px #bebebe, -20px -20px 60px #ffffff !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
