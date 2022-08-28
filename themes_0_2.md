@@ -106,7 +106,7 @@ previewimage|![](images/richard-horvath-_nWaeTF6qo0-unsplash.jpg)
 
 backgroundurl|![](images/richard-horvath-_nWaeTF6qo0-unsplash.jpg)
 
-tiletyle|box-shadow: 0 10px 30px 0 rgba(199, 83, 238, 0.23), 0 -10px 30px 0 rgba(0, 150, 250, 0.19),inset 0 0 0 2px #893beb,inset -24px 0 70px -27px #f4e0ff !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 10px 30px 0 rgba(199, 83, 238, 0.8), 0 -10px 30px 0 rgba(0, 150, 250, 0.9) !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
