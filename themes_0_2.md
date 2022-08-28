@@ -141,6 +141,26 @@ additionalstyle|
 
 
 
+# Blue
+
+previewimage|![](images/bernard-hermant-XyzPOIMqWfc-unsplash.jpg)
+
+backgroundurl|![](images/bernard-hermant-XyzPOIMqWfc-unsplash.jpg)
+
+tiletyle|box-shadow:  5px 5px 0  rgba(76,40,187,0.4), 10px 10px 0  rgba(76,40,187,0.3), 15px 15px 0  rgba(76,40,187,0.2), 20px 20px 0  rgba(76,40,187,0.1), 25px 25px 0  rgba(76,40,187,0.05),inset 0 0 0  #8545ec, 5px 5px 0  rgba(76,40,187,0.4), 10px 10px 0  rgba(76,40,187,0.3), 15px 15px 0  rgba(76,40,187,0.2), 20px 20px 0  rgba(76,40,187,0.1), 25px 25px 0  rgba(76,40,187,0.05), 25px 25px 0  rgba(76,40,187,0.05),inset 0 0 0  #8545ec,inset 5px 5px 0  rgba(76,40,187,0.4) !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(76,40,187,0.9) !important; box-shadow: 0px 0px 24px #f4e0ff !important;
+
+additionalstyle|
+
+
+
 
 
 
