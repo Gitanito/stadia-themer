@@ -30,6 +30,6 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; outline:none !important; border: 1px solid #4195fc !important;  box-shadow: 0px 0px 14px #4195fc !important;
+activetilestyle|transform: scale(1.5) !important; outline:none !important; border: 3px solid #4195fc !important; box-shadow: 0px 0px 24px #4195fc !important;
 
 additionalstyle|
