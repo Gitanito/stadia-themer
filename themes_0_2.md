@@ -12,7 +12,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 0.5rem solid white !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid white !important;
 
 additionalstyle|
 
@@ -22,7 +22,7 @@ previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
 backgroundurl|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
-tiletyle|box-shadow: rgba(255, 255, 255, 1) 3px 3px 0px, rgba(10, 10, 10, 0.8) 15px 10px 3px, rgba(255, 255, 255, 1) -3px -3px 0px !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:  20px 20px 60px #bebebe, -20px -20px 60px #ffffff !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
