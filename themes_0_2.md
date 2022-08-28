@@ -1,4 +1,4 @@
-# Theme 1
+# Nice Box
 
 previewimage|![](images/rodion-kutsaev-pVoEPpLw818-unsplash.jpg)
 
@@ -16,7 +16,7 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid white !import
 
 additionalstyle|
 
-# Theme 2
+# Glowing
 
 previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
@@ -31,5 +31,23 @@ gridstyle|padding-top: 2em !important;
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important; outline:none !important; border: 3px solid #4195fc !important; box-shadow: 0px 0px 24px #4195fc !important;
+
+additionalstyle|
+
+# Cyan Glow
+
+previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
+
+backgroundurl|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
+
+tiletyle|box-shadow: 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.2) !important; border: 3px solid #f0f !important; box-shadow: 0px 0px 24px #4195fc !important;
 
 additionalstyle|
