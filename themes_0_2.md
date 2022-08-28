@@ -90,7 +90,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; border: 3px solid #f0f !important; box-shadow: 0px 0px 24px #4195fc !important;
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #fca558 !important; box-shadow: 0px 0px 24px #fca558 !important;
 
 additionalstyle|
 
