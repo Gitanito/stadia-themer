@@ -36,9 +36,9 @@ additionalstyle|
 
 # Blue Pipes
 
-previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
+previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
 
-backgroundurl|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
+backgroundurl|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
 
 tiletyle|box-shadow: 0 0 50px #fff, -10px 0 80px #f0f, 10px 0 80px #0ff !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
@@ -56,9 +56,9 @@ additionalstyle|
 
 # Cyan Glow
 
-previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
+previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
 
-backgroundurl|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
+backgroundurl|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
 
 tiletyle|box-shadow:  -10px -6px 31px -10px #1777cb, 7px 8px 27px -5px #9800ff !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
