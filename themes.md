@@ -1,6 +1,6 @@
 # Theme 1
 ## previewimage
-![[https://wallpaperaccess.com/full/537159.jpg]]
+![image](https://wallpaperaccess.com/full/537159.jpg)
 ## tileselector
 .GqLi4d
 ## tiletyle
