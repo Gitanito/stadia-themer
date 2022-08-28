@@ -76,3 +76,27 @@ additionalstyle|
 
 
 
+# Morning City
+
+previewimage|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
+
+backgroundurl|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
+
+tiletyle|box-shadow: 0 0 60px 4px #e9c4c4, 0 0 30px 2px #cfbc77 !important;border-radius: 1rem !important;border-color: white !important;border-width: 1em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 3px solid #f0f !important; box-shadow: 0px 0px 24px #4195fc !important;
+
+additionalstyle|
+
+
+
+
+
+
+
