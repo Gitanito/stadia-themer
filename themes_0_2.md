@@ -123,11 +123,11 @@ additionalstyle|
 
 # DVD
 
-previewimage|![](keith-misner-h0Vxgz5tyXA-unsplash.jpg)
+previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
-tiletyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: 0 !important;border-color: white !important;border-width: 1em !important;padding-top: 2em !important; padding-bottom: 2em !important;background-color: white !important; margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: 0.3rem !important;border-color: white !important;border-width: 1em !important;padding-top: 20% !important; padding-bottom: 20% !important;background-color: white !important; margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
