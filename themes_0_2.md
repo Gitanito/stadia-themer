@@ -288,3 +288,25 @@ additionalstyle|
 
 
 
+
+
+# Snes
+
+previewimage|![](images/ravi-palwe-1UEmcJaybts-unsplash-mini.jpg)
+
+backgroundurl|![](images/ravi-palwe-1UEmcJaybts-unsplash.jpg)
+
+tiletyle|box-shadow: 0 9px 0 -5px rgba(76, 40, 187, 0.8), 0 15px 0 -7px rgba(76, 40, 187, 0.7) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(76, 40, 187, 0.8) !important; box-shadow: 0px 0px 24px rgba(76, 40, 187, 0.8) !important;
+
+additionalstyle|
+
+
+
