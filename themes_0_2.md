@@ -317,7 +317,7 @@ previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
 
 backgroundurl|![](images/stan-k-56TGfaKFHsU-unsplash.jpg)
 
-tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgb(255,255,255,0.8), 10px -10px 0  rgb(31,193,27,0.8), 20px -20px 0 -3px rgb(255,255,255,0.8), 20px -20px 0  rgb(255,217,19,0.8), 30px -30px 0 -3px rgb(255,255,255,0.8), 30px -30px 0  rgb(255,156,85,0.8), 40px -40px 0 -3px rgb(255,255,255,0.8), 40px -39px 0  rgb(255,85,85,0.8) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgb(255,255,255,0.2), 10px -10px 0  rgb(31,193,27,0.2), 20px -20px 0 -3px rgb(255,255,255,0.2), 20px -20px 0  rgb(255,217,19,0.2), 30px -30px 0 -3px rgb(255,255,255,0.2), 30px -30px 0  rgb(255,156,85,0.2), 40px -40px 0 -3px rgb(255,255,255,0.2), 40px -39px 0  rgb(255,85,85,0.2) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -326,6 +326,27 @@ gridstyle|padding-top: 2em !important;
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important; border: 5px solid rgb(255,156,85,0.8) !important; box-shadow: 0px 0px 24px rgb(255,156,85,0.8) !important;
+
+additionalstyle|
+
+
+
+
+# Mountains
+
+previewimage|![](images/wes-hicks-ZW6RUvsaFTc-unsplash-mini.jpg)
+
+backgroundurl|![](images/wes-hicks-ZW6RUvsaFTc-unsplash.jpg)
+
+tiletyle|box-shadow: 0 1px 3px  rgba(0,0,0,0.62), 0 4px 2px  rgba(0, 0, 0, 0.26),inset 0 6px 2px 0 rgba(87, 171, 202, 0.9) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(87, 171, 202, 0.9) !important; box-shadow: 0px 0px 24px rgba(87, 171, 202, 0.9) !important;
 
 additionalstyle|
 
