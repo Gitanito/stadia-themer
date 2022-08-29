@@ -34,7 +34,7 @@ activetilestyle|transform: scale(1.5) !important; outline:none !important; borde
 
 additionalstyle|
 
-# Blue Pipes
+# Game Center
 
 previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
 
@@ -54,7 +54,7 @@ additionalstyle|
 
 
 
-# Cyan Glow
+# Blue Pipes
 
 previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
 
