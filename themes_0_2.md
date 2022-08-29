@@ -338,7 +338,7 @@ previewimage|![](images/wes-hicks-ZW6RUvsaFTc-unsplash-mini.jpg)
 
 backgroundurl|![](images/wes-hicks-ZW6RUvsaFTc-unsplash.jpg)
 
-tiletyle|box-shadow: 0 1px 3px  rgba(0,0,0,0.8), 0 4px 2px  rgba(0, 0, 0, 0.9),inset 0 6px 2px 0 rgba(87, 171, 202, 0.9) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 1px 3px  rgba(0,0,0,0.8), 0 4px 2px  rgba(0, 0, 0, 0.9), 0 6px 2px 0 rgba(87, 171, 202, 0.9) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
