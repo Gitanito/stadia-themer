@@ -251,7 +251,7 @@ previewimage|![](images/scott-webb-VkbYS2piOuU-unsplash-mini.jpg)
 
 backgroundurl|![](images/scott-webb-VkbYS2piOuU-unsplash.jpg)
 
-tiletyle|box-shadow:  0 1px 0  rgba(17,17,26,0.1), 0 8px 24px  rgba(17,17,26,0.1), 0 0 10px 11px #f7e06c !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:  -10px -6px 31px -10px #07f2eb, 7px 8px 27px -5px  #007a80 !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -259,7 +259,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; border: 5px solid #f7e06c !important; box-shadow: 0px 0px 24px #f7e06c !important;
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #07f2eb !important; box-shadow: 0px 0px 24px #07f2eb !important;
 
 additionalstyle|
 
