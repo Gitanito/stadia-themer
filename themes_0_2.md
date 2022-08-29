@@ -1,6 +1,6 @@
 # Nice Box
 
-previewimage|![](images/rodion-kutsaev-pVoEPpLw818-unsplash.jpg)
+previewimage|![](images/rodion-kutsaev-pVoEPpLw818-unsplash-mini.jpg)
 
 backgroundurl|![](images/rodion-kutsaev-pVoEPpLw818-unsplash.jpg)
 
@@ -18,7 +18,7 @@ additionalstyle|
 
 # Glowing
 
-previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
+previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash-mini.jpg)
 
 backgroundurl|![](images/igor-karimov-9AmKnNZw3GA-unsplash.jpg)
 
@@ -36,7 +36,7 @@ additionalstyle|
 
 # Game Center
 
-previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
+previewimage|![](images/carl-raw-m3hn2Kn5Bns-unsplash-mini.jpg)
 
 backgroundurl|![](images/carl-raw-m3hn2Kn5Bns-unsplash.jpg)
 
@@ -56,7 +56,7 @@ additionalstyle|
 
 # Blue Pipes
 
-previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
+previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash-mini.jpg)
 
 backgroundurl|![](images/isaac-griffin-zAmSS7cWISg-unsplash.jpg)
 
@@ -78,7 +78,7 @@ additionalstyle|
 
 # Morning City
 
-previewimage|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
+previewimage|![](images/william-bout-OeGImGbmxls-unsplash-mini.jpg)
 
 backgroundurl|![](images/william-bout-OeGImGbmxls-unsplash.jpg)
 
@@ -102,7 +102,7 @@ additionalstyle|
 
 # Waves
 
-previewimage|![](images/richard-horvath-_nWaeTF6qo0-unsplash.jpg)
+previewimage|![](images/richard-horvath-_nWaeTF6qo0-unsplash-mini.jpg)
 
 backgroundurl|![](images/richard-horvath-_nWaeTF6qo0-unsplash.jpg)
 
@@ -123,7 +123,7 @@ additionalstyle|
 
 # DVD
 
-previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
+previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash-mini.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
@@ -143,7 +143,7 @@ additionalstyle|
 
 # Blue
 
-previewimage|![](images/bernard-hermant-XyzPOIMqWfc-unsplash.jpg)
+previewimage|![](images/bernard-hermant-XyzPOIMqWfc-unsplash-mini.jpg)
 
 backgroundurl|![](images/bernard-hermant-XyzPOIMqWfc-unsplash.jpg)
 
@@ -163,7 +163,7 @@ additionalstyle|
 
 # Light
 
-previewimage|![](images/masaaki-komori-_SbeCWYjwCQ-unsplash.jpg)
+previewimage|![](images/masaaki-komori-_SbeCWYjwCQ-unsplash-mini.jpg)
 
 backgroundurl|![](images/masaaki-komori-_SbeCWYjwCQ-unsplash.jpg)
 
