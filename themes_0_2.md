@@ -317,7 +317,7 @@ previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
 
 backgroundurl|![](images/stan-k-56TGfaKFHsU-unsplash.jpg)
 
-tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgb(255,255,255,0.2), 10px -10px 0  rgb(31,193,27,0.2), 20px -20px 0 -3px rgb(255,255,255,0.2), 20px -20px 0  rgb(255,217,19,0.2), 30px -30px 0 -3px rgb(255,255,255,0.2), 30px -30px 0  rgb(255,156,85,0.2), 40px -40px 0 -3px rgb(255,255,255,0.2), 40px -39px 0  rgb(255,85,85,0.2) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgba(255,255,255,0.2), 10px -10px 0  rgba(31,193,27,0.2), 20px -20px 0 -3px rgba(255,255,255,0.2), 20px -20px 0  rgba(255,217,19,0.2), 30px -30px 0 -3px rgba(255,255,255,0.2), 30px -30px 0  rgba(255,156,85,0.2), 40px -40px 0 -3px rgba(255,255,255,0.2), 40px -39px 0  rgba(255,85,85,0.2) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -325,7 +325,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; border: 5px solid rgb(255,156,85,0.8) !important; box-shadow: 0px 0px 24px rgb(255,156,85,0.8) !important;
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(255,156,85,0.8) !important; box-shadow: 0px 0px 24px rgba(255,156,85,0.8) !important;
 
 additionalstyle|
 
@@ -338,7 +338,7 @@ previewimage|![](images/wes-hicks-ZW6RUvsaFTc-unsplash-mini.jpg)
 
 backgroundurl|![](images/wes-hicks-ZW6RUvsaFTc-unsplash.jpg)
 
-tiletyle|box-shadow: 0 1px 3px  rgba(0,0,0,0.8), 0 4px 2px  rgba(0, 0, 0, 0.9), 0 6px 2px 0 rgba(87, 171, 202, 0.9) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:  28px 97px 104px -30px rgba(89, 136, 168, 0.77) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -346,7 +346,26 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(87, 171, 202, 0.9) !important; box-shadow: 0px 0px 24px rgba(87, 171, 202, 0.9) !important;
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(89, 136, 168, 0.77) !important; box-shadow: 0px 0px 24px rgba(89, 136, 168, 0.77) !important;
+
+additionalstyle|
+
+
+# Drops
+
+previewimage|![](images/pawel-czerwinski-F2dd48Oy3Ms-unsplash-mini.jpg)
+
+backgroundurl|![](images/pawel-czerwinski-F2dd48Oy3Ms-unsplash.jpg)
+
+tiletyle|box-shadow:  3px 2px 0  #000000, 5px 4px 0  #ffffff, 6px 5px 0  #4e4e4e, 14px 37px 30px  rgba(102, 102, 102, 0.73) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(89, 136, 168, 0.77) !important; box-shadow: 0px 0px 24px rgba(89, 136, 168, 0.77) !important;
 
 additionalstyle|
 
