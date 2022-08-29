@@ -317,7 +317,7 @@ previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
 
 backgroundurl|![](images/stan-k-56TGfaKFHsU-unsplash.jpg)
 
-tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgb(255,255,255), 10px -10px 0  rgb(31,193,27), 20px -20px 0 -3px rgb(255,255,255), 20px -20px 0  rgb(255,217,19), 30px -30px 0 -3px rgb(255,255,255), 30px -30px 0  rgb(255,156,85), 40px -40px 0 -3px rgb(255,255,255), 40px -39px 0  rgb(255,85,85) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgb(255,255,255,0.8), 10px -10px 0  rgb(31,193,27,0.8), 20px -20px 0 -3px rgb(255,255,255,0.8), 20px -20px 0  rgb(255,217,19,0.8), 30px -30px 0 -3px rgb(255,255,255,0.8), 30px -30px 0  rgb(255,156,85,0.8), 40px -40px 0 -3px rgb(255,255,255,0.8), 40px -39px 0  rgb(255,85,85,0.8) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
