@@ -182,6 +182,27 @@ additionalstyle|
 
 
 
+# Valley
+
+previewimage|![](images/madara-parma-5lgC0sAa6Gg-unsplash-mini.jpg)
+
+backgroundurl|![](images/madara-parma-5lgC0sAa6Gg-unsplash.jpg)
+
+tiletyle|box-shadow: 0 1px 1px  rgba(9,30,66,0.7), 0 0 20px 0 rgba(138, 169, 62, 0.6); !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(9,30,66,0.7) !important; box-shadow: 0px 0px 24px rgba(9,30,66,0.7) !important;
+
+additionalstyle|
+
+
+
+
 
 
 
