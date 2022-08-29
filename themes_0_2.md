@@ -267,3 +267,24 @@ additionalstyle|
 
 
 
+# Snow
+
+previewimage|![](images/alessio-soggetti-Pao8_rE4a44-unsplash-mini.jpg)
+
+backgroundurl|![](images/alessio-soggetti-Pao8_rE4a44-unsplash.jpg)
+
+tiletyle|box-shadow:  -14px -12px 12px -10px #ffffff, 20px 19px 3px -10px #daeafc !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #ffffff !important; box-shadow: 0px 0px 24px #ffffff !important;
+
+additionalstyle|
+
+
+
+
