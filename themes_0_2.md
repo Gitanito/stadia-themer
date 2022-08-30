@@ -339,3 +339,4 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
 
 additionalstyle|
+
