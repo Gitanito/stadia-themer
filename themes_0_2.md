@@ -358,3 +358,21 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !imp
 
 additionalstyle|
 
+# Red
+
+previewimage|![](images/alireza-khatami-f1PWFi2DNvI-unsplash-mini.jpg)
+
+backgroundurl|![](images/alireza-khatami-f1PWFi2DNvI-unsplash.jpg)
+
+tiletyle|box-shadow: 10px 0 0 -5px rgba(245, 4, 23, 0.8), -12px 0 0 -7px rgb(254, 191, 176, 0.7), -2px -2px 20px 10px rgba(245, 4, 23, 0.3) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
