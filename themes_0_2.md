@@ -376,3 +376,21 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !imp
 
 additionalstyle|
 
+# Golden Rain
+
+previewimage|![](images/rene-bohmer-YeUVDKZWSZ4-unsplash-mini.jpg)
+
+backgroundurl|![](images/rene-bohmer-YeUVDKZWSZ4-unsplash.jpg)
+
+tiletyle|box-shadow: -10px 0 0 -5px rgba(255, 253, 252, 1), 10px 0 0 -5px rgba(193, 124, 32, 1),-25px 0 0 -15px rgba(252, 209, 104, 0.8),25px 0 0 -15px rgba(252, 209, 104, 0.8), 40px 0 0 -25px rgba(255, 253, 252, 1), -40px 0 0 -25px rgba(193, 124, 32, 1) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
