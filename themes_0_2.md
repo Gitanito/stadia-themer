@@ -400,7 +400,25 @@ previewimage|![](images/cristian-grecu-_ykb4UBjtGU-unsplash-mini.jpg)
 
 backgroundurl|![](images/cristian-grecu-_ykb4UBjtGU-unsplash.jpg)
 
-tiletyle|box-shadow: -100px 100px 0 -180px rgba(55, 134, 53, 0.8),-100px -100px 0 -180px rgba(55, 134, 53, 0.8),100px -100px 0 -180px rgba(55, 134, 53, 0.8),100px 100px 0 -180px rgba(55, 134, 53, 0.8), -3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 191, 154) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:-3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 191, 154),-15px 10px 0 0 rgba(55, 134, 53, 0.8),-10px -10px 0 0 rgba(55, 134, 53, 0.8),10px -15px 0 0 rgba(55, 134, 53, 0.8),15px 15px 0 0 rgba(55, 134, 53, 0.8) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
+# Retro
+
+previewimage|![](images/gradienta-QWutu2BRpOs-unsplash-mini.jpg)
+
+backgroundurl|![](images/gradienta-QWutu2BRpOs-unsplash.jpg)
+
+tiletyle|box-shadow:-3px 3px 0 2px rgb(255, 155, 61), 3px -3px 0 2px rgb(21, 82, 100),-15px 10px 0 0 rgba(253, 112, 59, 0.8),-10px -10px 0 0 rgba(255, 155, 61, 0.8),10px -15px 0 0 rgb(254, 201, 59, 0.8),15px 15px 0 0 rgba(255, 155, 61, 0.8) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
