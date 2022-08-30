@@ -52,8 +52,6 @@ activetilestyle|transform: scale(1.5) !important; border: 3px solid #f0f !import
 
 additionalstyle|
 
-
-
 # Blue Pipes
 
 previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash-mini.jpg)
@@ -71,10 +69,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 3px solid #f0f !important; box-shadow: 0px 0px 24px #4195fc !important;
 
 additionalstyle|
-
-
-
-
 
 # Morning City
 
@@ -94,12 +88,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(59, 28,
 
 additionalstyle|
 
-
-
-
-
-
-
 # Waves
 
 previewimage|![](images/richard-horvath-_nWaeTF6qo0-unsplash-mini.jpg)
@@ -117,9 +105,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid #f4e0ff !important; box-shadow: 0px 0px 24px #f4e0ff !important;
 
 additionalstyle|
-
-
-
 
 # DVD
 
@@ -139,8 +124,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(0,0,0,0
 
 additionalstyle|
 
-
-
 # Blue
 
 previewimage|![](images/bernard-hermant-XyzPOIMqWfc-unsplash-mini.jpg)
@@ -158,8 +141,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(76,40,187,0.9) !important; box-shadow: 0px 0px 24px #f4e0ff !important;
 
 additionalstyle|
-
-
 
 # Light
 
@@ -179,9 +160,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(255, 86
 
 additionalstyle|
 
-
-
-
 # Valley
 
 previewimage|![](images/madara-parma-5lgC0sAa6Gg-unsplash-mini.jpg)
@@ -199,9 +177,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(9,30,66,0.7) !important; box-shadow: 0px 0px 24px rgba(9,30,66,0.7) !important;
 
 additionalstyle|
-
-
-
 
 # Sky
 
@@ -221,9 +196,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid #46b8fd !imp
 
 additionalstyle|
 
-
-
-
 # Gold
 
 previewimage|![](images/joshua-coleman-VPTREFPC1jc-unsplash-mini.jpg)
@@ -241,9 +213,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid #f7e06c !important; box-shadow: 0px 0px 24px #f7e06c !important;
 
 additionalstyle|
-
-
-
 
 # Oil
 
@@ -263,10 +232,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid #07f2eb !imp
 
 additionalstyle|
 
-
-
-
-
 # Snow
 
 previewimage|![](images/alessio-soggetti-Pao8_rE4a44-unsplash-mini.jpg)
@@ -284,11 +249,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid #ffffff !important; box-shadow: 0px 0px 24px #ffffff !important;
 
 additionalstyle|
-
-
-
-
-
 
 # Snes
 
@@ -308,9 +268,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(76, 40,
 
 additionalstyle|
 
-
-
-
 # Colors
 
 previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
@@ -328,9 +285,6 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(255,156,85,0.8) !important; box-shadow: 0px 0px 24px rgba(255,156,85,0.8) !important;
 
 additionalstyle|
-
-
-
 
 # Mountains
 
@@ -350,7 +304,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(89, 136
 
 additionalstyle|
 
-
 # Drops
 
 previewimage|![](images/pawel-czerwinski-F2dd48Oy3Ms-unsplash-mini.jpg)
@@ -369,8 +322,6 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid rgba(89, 136
 
 additionalstyle|
 
-
-
 # Clock
 
 previewimage|![](images/lucas-santos-bPYptt85ELU-unsplash-mini.jpg)
@@ -388,7 +339,3 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
 
 additionalstyle|
-
-
-
-
