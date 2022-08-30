@@ -371,4 +371,24 @@ additionalstyle|
 
 
 
+# Clock
+
+previewimage|![](images/lucas-santos-bPYptt85ELU-unsplash-mini.jpg)
+
+backgroundurl|![](images/lucas-santos-bPYptt85ELU-unsplash.jpg)
+
+tiletyle|box-shadow:  4px 4px 0  rgba(125, 99, 69, 0.91), 2px 7px 0  #f5eabe, 8px 8px 0  #daba75, 12px 11px 0  rgba(169, 143, 23, 0.91), 14px 24px 30px  rgba(18, 17, 13, 0.77) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
+
+
 
