@@ -394,3 +394,21 @@ activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !imp
 
 additionalstyle|
 
+# Djungle
+
+previewimage|![](images/cristian-grecu-_ykb4UBjtGU-unsplash-mini.jpg)
+
+backgroundurl|![](images/cristian-grecu-_ykb4UBjtGU-unsplash.jpg)
+
+tiletyle|box-shadow: -100px 100px 0 -80px rgba(55, 134, 53, 0.8),-100px -100px 0 -80px rgba(55, 134, 53, 0.8),100px -100px 0 -80px rgba(55, 134, 53, 0.8),100px 100px 0 -80px rgba(55, 134, 53, 0.8), -3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 191, 154) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
