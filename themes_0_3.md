@@ -124,7 +124,7 @@ previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash-mini.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
-tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: .5rem !important;border-color: #000 !important;border-width: 1em !important;padding-top: 10% !important;padding-bottom: 10% !important;background-color: #000 !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tilestyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: .5rem !important;border-color: #000 !important;border-width: 1em !important;padding-top: 15% !important;padding-bottom: 15% !important;background-color: #000 !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important;background-size: cover !important;
 
