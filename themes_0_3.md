@@ -538,3 +538,23 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(210, 52,
 
 additionalstyle|
 
+# Space
+
+previewimage|![](images/jeremy-thomas-E0AHdsENmDg-unsplash-mini.jpg)
+
+backgroundurl|![](images/jeremy-thomas-E0AHdsENmDg-unsplash.jpg)
+
+tilestyle|box-shadow:  -2px -2px 0  rgba(253, 242, 255, 0.91), 2px -2px 0  rgba(98, 109, 163, 0.77), 2px 4px 0 rgba(98, 109, 163, 0.77), -2px 4px 0 rgba(98, 109, 163, 0.77), -6px -6px 0  rgba(253, 242, 255, .5), 5px 5px 0  rgba(3, 16, 58, 0.91), 14px 24px 30px rgba(18, 17, 13, 0.77), -3px -3px 10px  rgb(253, 242, 255) !important;border-radius: 50% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(146, 146, 197, 0.6) !important;
+
+additionalstyle|
+
