@@ -518,3 +518,23 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(221, 90,
 
 additionalstyle|
 
+# Fire
+
+previewimage|![](images/ella-peebles-kUkqoqwY61s-unsplash-mini.jpg)
+
+backgroundurl|![](images/ella-peebles-kUkqoqwY61s-unsplash.jpg)
+
+tilestyle|box-shadow: 0 9px 0 -5px rgba(255, 200, 95, 0.5), 0 15px 0 -7px rgba(210, 52, 16, 0.7), 0 -9px 0 -5px rgba(255, 200, 95, 0.8), 0 -15px 0 -7px rgba(210, 52, 16, 0.7) !important;border-radius: 2.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(210, 52, 16, 0.9) !important;
+
+additionalstyle|
+
