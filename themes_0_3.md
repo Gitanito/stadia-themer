@@ -458,7 +458,7 @@ tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(22
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
-gridstyle|padding: auto !important;grid-auto-columns: 181px !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+gridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
