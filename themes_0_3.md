@@ -498,7 +498,7 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(243, 216,
 
 additionalstyle|
 
-# Horizontal
+# Flow
 
 previewimage|![](images/gradienta-MJxvJlQqldM-unsplash-mini.jpg)
 
