@@ -10,13 +10,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(119, 75, 151) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Glowing
 
@@ -30,13 +30,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid #fff !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Game Center
 
@@ -50,13 +50,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(253, 1, 156) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Blue Pipes
 
@@ -70,13 +70,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(178, 210, 253) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Morning City
 
@@ -90,13 +90,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(254, 213, 178, 0.7) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Waves
 
@@ -110,13 +110,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(205, 199, 255) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # DVD
 
@@ -130,13 +130,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(0,0,0,0.9) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Blue
 
@@ -150,13 +150,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(128, 207, 250,0.9) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Light
 
@@ -170,13 +170,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(248, 227, 236, 0.9) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Valley
 
@@ -190,13 +190,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(99, 90, 57,0.7) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Sky
 
@@ -210,13 +210,13 @@ backgroundstyle|background-image: url('###bgurl###') !important; background-size
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(123, 187, 221) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Gold
 
@@ -230,13 +230,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(250, 251, 17) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Oil
 
@@ -250,13 +250,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(1, 251, 230) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Snow
 
@@ -270,13 +270,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(242, 248, 252) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Snes
 
@@ -290,13 +290,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(75, 149, 255, 0.8) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Colors
 
@@ -310,13 +310,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(223, 204, 123,0.8) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Mountains
 
@@ -330,13 +330,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(170, 191, 210, 0.77) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Drops
 
@@ -350,13 +350,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(243, 176, 105, 0.77) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Clock
 
@@ -370,13 +370,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(253, 184, 91) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Sundown
 
@@ -390,13 +390,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(192, 158, 126) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Red
 
@@ -410,13 +410,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(250, 4, 29) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Golden Rain
 
@@ -430,13 +430,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(233, 156, 54) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Djungle
 
@@ -450,13 +450,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(126, 222, 123, 0.9) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Retro
 
@@ -470,13 +470,13 @@ backgroundstyle|background-image: url('###bgurl###') !important;background-size:
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(254, 201, 59) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Citylight
 
@@ -490,13 +490,13 @@ backgroundstyle|background-image: url('###bgurl###') !important; background-size
 
 gridstyle|padding-top: 2em !important;
 
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+
 headerstyle|display: none !important;
 
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(243, 216, 152) !important;
 
 additionalstyle|
-
-hgridstyle|
 
 # Horizontal
 
@@ -508,7 +508,9 @@ tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(22
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
-gridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
+gridstyle|padding-top: 2em !important;
+
+hgridstyle|padding: auto !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 50px !important;
 
 headerstyle|display: none !important;
 
@@ -516,4 +518,3 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(221, 90,
 
 additionalstyle|
 
-hgridstyle|
