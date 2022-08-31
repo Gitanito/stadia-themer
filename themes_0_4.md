@@ -504,7 +504,7 @@ previewimage|![](images/gradienta-MJxvJlQqldM-unsplash-mini.jpg)
 
 backgroundurl|![](images/gradienta-MJxvJlQqldM-unsplash.jpg)
 
-tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(221, 90, 0, 0.6) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;width: 290px !important;height: 290px !important;
+tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(221, 90, 0, 0.6) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
