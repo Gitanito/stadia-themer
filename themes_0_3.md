@@ -16,6 +16,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(119, 75, 
 
 additionalstyle|
 
+hgridstyle|
+
 # Glowing
 
 previewimage|![](images/igor-karimov-9AmKnNZw3GA-unsplash-mini.jpg)
@@ -33,6 +35,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 3px solid #fff !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Game Center
 
@@ -52,6 +56,8 @@ activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(253, 1, 1
 
 additionalstyle|
 
+hgridstyle|
+
 # Blue Pipes
 
 previewimage|![](images/isaac-griffin-zAmSS7cWISg-unsplash-mini.jpg)
@@ -69,6 +75,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(178, 210, 253) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Morning City
 
@@ -88,6 +96,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(254, 213
 
 additionalstyle|
 
+hgridstyle|
+
 # Waves
 
 previewimage|![](images/richard-horvath-_nWaeTF6qo0-unsplash-mini.jpg)
@@ -105,6 +115,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(205, 199, 255) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # DVD
 
@@ -124,6 +136,8 @@ activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(0,0,0,0.
 
 additionalstyle|
 
+hgridstyle|
+
 # Blue
 
 previewimage|![](images/bernard-hermant-XyzPOIMqWfc-unsplash-mini.jpg)
@@ -141,6 +155,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(128, 207, 250,0.9) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Light
 
@@ -160,6 +176,8 @@ activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(248, 227
 
 additionalstyle|
 
+hgridstyle|
+
 # Valley
 
 previewimage|![](images/madara-parma-5lgC0sAa6Gg-unsplash-mini.jpg)
@@ -177,6 +195,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(99, 90, 57,0.7) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Sky
 
@@ -196,6 +216,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(123, 187,
 
 additionalstyle|
 
+hgridstyle|
+
 # Gold
 
 previewimage|![](images/joshua-coleman-VPTREFPC1jc-unsplash-mini.jpg)
@@ -213,6 +235,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(250, 251, 17) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Oil
 
@@ -232,6 +256,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(1, 251, 2
 
 additionalstyle|
 
+hgridstyle|
+
 # Snow
 
 previewimage|![](images/alessio-soggetti-Pao8_rE4a44-unsplash-mini.jpg)
@@ -249,6 +275,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(242, 248, 252) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Snes
 
@@ -268,6 +296,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(75, 149,
 
 additionalstyle|
 
+hgridstyle|
+
 # Colors
 
 previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
@@ -285,6 +315,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(223, 204, 123,0.8) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Mountains
 
@@ -304,6 +336,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(170, 191
 
 additionalstyle|
 
+hgridstyle|
+
 # Drops
 
 previewimage|![](images/pawel-czerwinski-F2dd48Oy3Ms-unsplash-mini.jpg)
@@ -321,6 +355,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(243, 176, 105, 0.77) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Clock
 
@@ -340,6 +376,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(253, 184,
 
 additionalstyle|
 
+hgridstyle|
+
 # Sundown
 
 previewimage|![](images/armando-castillejos-Qnp52c9xNto-unsplash-mini.jpg)
@@ -357,6 +395,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(192, 158, 126) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Red
 
@@ -376,6 +416,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(250, 4, 2
 
 additionalstyle|
 
+hgridstyle|
+
 # Golden Rain
 
 previewimage|![](images/rene-bohmer-YeUVDKZWSZ4-unsplash-mini.jpg)
@@ -393,6 +435,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(233, 156, 54) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Djungle
 
@@ -412,6 +456,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(126, 222
 
 additionalstyle|
 
+hgridstyle|
+
 # Retro
 
 previewimage|![](images/gradienta-QWutu2BRpOs-unsplash-mini.jpg)
@@ -429,6 +475,8 @@ headerstyle|display: none !important;
 activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(254, 201, 59) !important;
 
 additionalstyle|
+
+hgridstyle|
 
 # Citylight
 
@@ -448,6 +496,8 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(243, 216,
 
 additionalstyle|
 
+hgridstyle|
+
 # Horizontal
 
 previewimage|![](images/gradienta-MJxvJlQqldM-unsplash-mini.jpg)
@@ -466,3 +516,4 @@ activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(221, 90,
 
 additionalstyle|
 
+hgridstyle|
