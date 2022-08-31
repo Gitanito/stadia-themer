@@ -112,7 +112,7 @@ previewimage|![](images/keith-misner-h0Vxgz5tyXA-unsplash-mini.jpg)
 
 backgroundurl|![](images/keith-misner-h0Vxgz5tyXA-unsplash.jpg)
 
-tiletyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: 0.3rem !important;border-color: white !important;border-width: 1em !important;padding-top: 20% !important; padding-bottom: 20% !important;background-color: white !important; margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 2px 1px  rgba(0,0,0,0.9), 0 4px 2px  rgba(0,0,0,0.9), 0 8px 4px  rgba(0,0,0,0.9), 0 16px 8px  rgba(0,0,0,0.9), 0 32px 16px  rgba(0,0,0,0.9) !important;border-radius: 0.3rem !important;border-color: white !important;border-width: 1em !important;padding-top: 20% !important;padding-bottom: 20% !important;background-color: white !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -256,7 +256,7 @@ previewimage|![](images/ravi-palwe-1UEmcJaybts-unsplash-mini.jpg)
 
 backgroundurl|![](images/ravi-palwe-1UEmcJaybts-unsplash.jpg)
 
-tiletyle|box-shadow: 0 9px 0 -5px rgba(0, 0, 229, 0.8), 0 15px 0 -7px rgba(0, 0, 229, 0.3), 0 -9px 0 -5px rgba(0, 0, 229, 0.8), 0 -15px 0 -7px rgba(0, 0, 229, 0.3) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: 0 9px 0 -5px rgba(0, 0, 229, 0.8), 0 15px 0 -7px rgba(0, 0, 229, 0.3), 0 -9px 0 -5px rgba(0, 0, 229, 0.8), 0 -15px 0 -7px rgba(0, 0, 229, 0.3) !important;border-radius: 2.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -274,7 +274,7 @@ previewimage|![](images/stan-k-56TGfaKFHsU-unsplash-mini.jpg)
 
 backgroundurl|![](images/stan-k-56TGfaKFHsU-unsplash.jpg)
 
-tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgba(255,255,255,0.2), 10px -10px 0  rgba(31,193,27,0.2), 20px 20px 0 -3px rgba(255,255,255,0.2), 20px 20px 0  rgba(255,217,19,0.2), -30px 30px 0 -3px rgba(255,255,255,0.2), -30px 30px 0  rgba(255,156,85,0.2), 30px -30px 0 -3px rgba(255,255,255,0.2), 30px -29px 0  rgba(255,85,85,0.2) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: inset 0 0 0 2px blue, 10px -10px 0 -3px rgba(255,255,255,0.2), 10px -10px 0  rgba(31,193,27,0.2), 20px 20px 0 -3px rgba(255,255,255,0.2), 20px 20px 0  rgba(255,217,19,0.2), -30px 30px 0 -3px rgba(255,255,255,0.2), -30px 30px 0  rgba(255,156,85,0.2), 30px -30px 0 -3px rgba(255,255,255,0.2), 30px -29px 0  rgba(255,85,85,0.2) !important;border-radius: 30% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -292,7 +292,7 @@ previewimage|![](images/wes-hicks-ZW6RUvsaFTc-unsplash-mini.jpg)
 
 backgroundurl|![](images/wes-hicks-ZW6RUvsaFTc-unsplash.jpg)
 
-tiletyle|box-shadow:  0 -27px 30px -10px rgba(89, 136, 168, 0.77) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:  0 -27px 30px -10px rgba(89, 136, 168, 0.77) !important;border-radius: 1rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -364,7 +364,7 @@ previewimage|![](images/alireza-khatami-f1PWFi2DNvI-unsplash-mini.jpg)
 
 backgroundurl|![](images/alireza-khatami-f1PWFi2DNvI-unsplash.jpg)
 
-tiletyle|box-shadow: 10px 0 0 -5px rgba(245, 4, 23, 0.8), -12px 0 0 -7px rgb(254, 191, 176, 0.7), -2px -2px 20px 10px rgba(245, 4, 23, 0.3) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:10px 0 0 -5px rgba(245, 4, 23, 0.8),  -2px -2px 20px 10px rgba(245, 4, 23, 0.3),-12px 0 0 -7px rgba(255, 255, 255, 1) !important;border-radius: 1.5rem !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -382,7 +382,7 @@ previewimage|![](images/rene-bohmer-YeUVDKZWSZ4-unsplash-mini.jpg)
 
 backgroundurl|![](images/rene-bohmer-YeUVDKZWSZ4-unsplash.jpg)
 
-tiletyle|box-shadow: -10px 0 0 -5px rgba(255, 253, 252, 1), 10px 0 0 -5px rgba(193, 124, 32, 1),-25px 0 0 -15px rgba(252, 209, 104, 0.8),25px 0 0 -15px rgba(252, 209, 104, 0.8), 40px 0 0 -25px rgba(255, 253, 252, 1), -40px 0 0 -25px rgba(193, 124, 32, 1) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow: -10px 0 0 -5px rgba(255, 253, 252, 1), 10px 0 0 -5px rgba(193, 124, 32, 1),-25px 0 0 -15px rgba(252, 209, 104, 0.8),25px 0 0 -15px rgba(252, 209, 104, 0.8), 40px 0 0 -25px rgba(255, 253, 252, 1), -40px 0 0 -25px rgba(193, 124, 32, 1) !important;border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -400,7 +400,7 @@ previewimage|![](images/cristian-grecu-_ykb4UBjtGU-unsplash-mini.jpg)
 
 backgroundurl|![](images/cristian-grecu-_ykb4UBjtGU-unsplash.jpg)
 
-tiletyle|box-shadow:-3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 191, 154),-15px 10px 0 0 rgba(55, 134, 53, 0.8),-10px -10px 0 0 rgba(55, 134, 53, 0.8),10px -15px 0 0 rgba(55, 134, 53, 0.8),15px 15px 0 0 rgba(55, 134, 53, 0.8) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:-3px 3px 0 2px rgb(226, 191, 154), 3px -3px 0 2px rgb(226, 191, 154),-15px 10px 0 0 rgba(55, 134, 53, 0.8),-10px -10px 0 0 rgba(55, 134, 53, 0.8),10px -15px 0 0 rgba(55, 134, 53, 0.8),15px 15px 0 0 rgba(55, 134, 53, 0.8) !important;border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
@@ -418,7 +418,25 @@ previewimage|![](images/gradienta-QWutu2BRpOs-unsplash-mini.jpg)
 
 backgroundurl|![](images/gradienta-QWutu2BRpOs-unsplash.jpg)
 
-tiletyle|box-shadow:-3px 3px 0 2px rgb(255, 155, 61), 3px -3px 0 2px rgb(21, 82, 100),-15px 10px 0 0 rgba(253, 112, 59, 0.8),-10px -10px 0 0 rgba(255, 155, 61, 0.8),10px -15px 0 0 rgb(254, 201, 59, 0.8),15px 15px 0 0 rgba(255, 155, 61, 0.8) !important; border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tiletyle|box-shadow:-3px 3px 0 2px rgb(255, 155, 61), 3px -3px 0 2px rgb(21, 82, 100),-15px 10px 0 0 rgba(253, 112, 59, 0.8),-10px -10px 0 0 rgba(255, 155, 61, 0.8),10px -15px 0 0 rgb(254, 201, 59, 0.8),15px 15px 0 0 rgba(255, 155, 61, 0.8) !important;border-radius: 0 !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+
+backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
+
+gridstyle|padding-top: 2em !important;
+
+headerstyle|display: none !important;
+
+activetilestyle|transform: scale(1.5) !important; border: 5px solid #f5eabe !important; box-shadow: 0px 0px 24px #f5eabe !important;
+
+additionalstyle|
+
+# Citylight
+
+previewimage|![](images/dennis-kummer-52gEprMkp7M-unsplash-mini.jpg)
+
+backgroundurl|![](images/dennis-kummer-52gEprMkp7M-unsplash.jpg)
+
+tiletyle|box-shadow:0 5px 10px 2px rgb(243, 216, 152),0px 20px 30px -0px rgba(240, 241, 207, 0.3) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
