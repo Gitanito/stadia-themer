@@ -458,7 +458,7 @@ tilestyle|box-shadow:0 5px 10px 2px rgb(243, 216, 152),0px 20px 30px -0px rgba(2
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
-gridstyle|padding-top: 2em !important;
+gridstyle|padding-top: 6em !important;grid-gap: 10px !important;grid-template-columns: repeat(350, calc(20% - 40px)) !important;grid-template-rows: minmax(150px, 1fr) !important;
 
 headerstyle|display: none !important;
 
