@@ -30,7 +30,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 3px solid 723fb6 !important;
+activetilestyle|transform: scale(1.5) !important;border: 3px solid #fff !important;
 
 additionalstyle|
 
@@ -66,7 +66,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(19, 101, 213) !important;
+activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(178, 210, 253) !important;
 
 additionalstyle|
 
@@ -84,7 +84,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(254, 186, 123, 0.7) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(254, 213, 178, 0.7) !important;
 
 additionalstyle|
 
@@ -120,7 +120,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(0,0,0,0.9) !important;
+activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(0,0,0,0.9) !important;
 
 additionalstyle|
 
@@ -138,7 +138,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(6, 77, 211,0.9) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(128, 207, 250,0.9) !important;
 
 additionalstyle|
 
@@ -156,7 +156,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(255, 86, 86, 0.9) !important;
+activetilestyle|transform: scale(1.5) !important;border: 3px solid rgba(248, 227, 236, 0.9) !important;
 
 additionalstyle|
 
@@ -210,7 +210,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(250, 251, 17) !important;
+activetilestyle|transform: scale(1.5) !important;border: 3px solid rgb(250, 251, 17) !important;
 
 additionalstyle|
 
@@ -246,7 +246,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(42, 64, 95) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(242, 248, 252) !important;
 
 additionalstyle|
 
@@ -264,7 +264,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(207, 219, 255, 0.8) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(75, 149, 255, 0.8) !important;
 
 additionalstyle|
 
@@ -318,7 +318,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(128, 192, 212, 0.77) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(243, 176, 105, 0.77) !important;
 
 additionalstyle|
 
@@ -354,7 +354,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(255, 252, 215) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(192, 158, 126) !important;
 
 additionalstyle|
 
@@ -390,7 +390,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(248, 227, 132) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(233, 156, 54) !important;
 
 additionalstyle|
 
@@ -408,7 +408,7 @@ gridstyle|padding-top: 2em !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(226, 191, 154) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(126, 222, 123, 0.9) !important;
 
 additionalstyle|
 
