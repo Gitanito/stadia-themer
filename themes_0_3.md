@@ -450,19 +450,19 @@ additionalstyle|
 
 # Test
 
-previewimage|![](images/dennis-kummer-52gEprMkp7M-unsplash-mini.jpg)
+previewimage|![](images/elliott-engelmann-DjlKxYFJlTc-unsplash-mini.jpg)
 
-backgroundurl|![](images/dennis-kummer-52gEprMkp7M-unsplash.jpg)
+backgroundurl|![](images/elliott-engelmann-DjlKxYFJlTc-unsplash.jpg)
 
-tilestyle|box-shadow:0 5px 10px 2px rgb(243, 216, 152),0px 20px 30px -0px rgba(240, 241, 207, 0.3) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;width: 500px !important;
+tilestyle|box-shadow:0 5px 10px 2px rgb(192, 145, 95),0px 20px 30px -0px rgba(221, 90, 0, 0.6) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;width: 435px !important;height: 435px !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
-gridstyle|padding: auto !important;grid-auto-columns: 181px !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;
+gridstyle|padding: auto !important;grid-auto-columns: 181px !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;align-self: center !important;justify-self: center !important;position: absolute !important;bottom: 0px !important;height: 100% !important;
 
 headerstyle|display: none !important;
 
-activetilestyle|transform: scale(1.5) !important;border: 5px solid rgb(243, 216, 152) !important;
+activetilestyle|transform: scale(1.5) !important;border: 5px solid rgba(221, 90, 0, 0.6) !important;
 
 additionalstyle|
 
