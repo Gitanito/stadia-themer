@@ -454,11 +454,11 @@ previewimage|![](images/dennis-kummer-52gEprMkp7M-unsplash-mini.jpg)
 
 backgroundurl|![](images/dennis-kummer-52gEprMkp7M-unsplash.jpg)
 
-tilestyle|box-shadow:0 5px 10px 2px rgb(243, 216, 152),0px 20px 30px -0px rgba(240, 241, 207, 0.3) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;
+tilestyle|box-shadow:0 5px 10px 2px rgb(243, 216, 152),0px 20px 30px -0px rgba(240, 241, 207, 0.3) !important;border-radius: 10% !important;border-color: white !important;border-width: 1.5em !important;margin-top: 1em !important;margin-bottom: 1em !important;margin-left: 2em !important;margin-right: 2em !important;width: 500px !important;
 
 backgroundstyle|background-image: url('###bgurl###') !important; background-size: cover !important;
 
-gridstyle|padding-top: 6em !important;grid-auto-columns: 181px !important;grid-auto-flow: column !important;grid-gap: 10px !important; justify-content: left !important;
+gridstyle|padding-top: 10em !important;grid-auto-columns: 181px !important;grid-auto-flow: column !important;grid-gap: 10px !important;justify-content: left !important;
 
 headerstyle|display: none !important;
 
